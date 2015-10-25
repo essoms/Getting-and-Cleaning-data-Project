@@ -27,4 +27,4 @@ This file contains R code which does the following:
 3. Extracts just the mean and standard deviation from the features data set using grep.
 4. Facorize Variale activity in the data frame using descriptive activity names
 5. Labels the data set with descriptive variable names using gsub
-6. Creates a second, independent tidy data set with the average of each variable for each activity and each subject using write.table().
+6. Creates a second, independent tidy data set with the average of each variable for each activity and each subject using write.table(). 
